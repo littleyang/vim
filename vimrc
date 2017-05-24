@@ -454,6 +454,7 @@ Bundle 'Django-Projects'
 Bundle 'tagbar.vim'
 "ack
 Bundle 'https://github.com/mileszs/ack.vim.git'
+Bundle 'fatih/vim-go'
 
 
 "Bundle 'FredKSchott/CoVim'
